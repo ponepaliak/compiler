@@ -1,0 +1,35 @@
+﻿namespace simple_compiler.Interfaces
+{
+    public enum TokenType
+    {
+        varName,
+        ifOper,
+        ifelOper,
+        elseOper,
+        whileOper,
+        minus,
+        plus,
+        multiply,
+        divide,
+        equel,
+        isEquel,
+        notEquel,
+        mod,
+        less,
+        lessEquel,
+        more,
+        moreEquel,
+        number,
+        semicolon,
+        colon,
+        intType,
+        openBlock,
+        closeBlock,
+        leftBracket,
+        rightBracket,
+        eof,
+        error,
+        undefined,
+        print
+    }
+}

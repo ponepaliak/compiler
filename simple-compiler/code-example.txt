@@ -1,0 +1,27 @@
+﻿var:int = 110;
+if (var > 100){
+    $ 1111111111;
+    while (var > 100){
+        var = var - 1;
+        $ var;
+        $ 100000000;
+        if (var % 2 == 0) {
+            var1:int = var%2;
+            $ 2222222;
+            $ var1;
+            some:int = 20;
+            while(some > 1) {
+                some = some - 1;
+                $ 7777777;
+                $ some;
+            }
+        } elif (var == 103) {
+            $ 333333;
+        } elif (var == 105) {
+            $ 55555;
+        } else {
+            $ 10101010;
+        }
+    }
+}
+$ var;

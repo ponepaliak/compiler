@@ -1,0 +1,5 @@
+E:\Rider\simple-compiler\simple-compiler\bin\Debug\simple_compiler.exe
+E:\Rider\simple-compiler\simple-compiler\bin\Debug\simple_compiler.pdb
+E:\Rider\simple-compiler\simple-compiler\obj\Debug\simple-compiler.csprojAssemblyReference.cache
+E:\Rider\simple-compiler\simple-compiler\obj\Debug\simple_compiler.exe
+E:\Rider\simple-compiler\simple-compiler\obj\Debug\simple_compiler.pdb

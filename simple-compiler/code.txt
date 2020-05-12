@@ -1,0 +1,9 @@
+﻿counter:int = 2;
+result:int = 1;
+$ result;
+while(counter<13){
+    result = result * counter;
+    counter = counter + 1;
+    $ result;
+    $ counter;
+}
